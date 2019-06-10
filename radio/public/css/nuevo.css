@@ -1,0 +1,29 @@
+@import url(https://fonts.googleapis.com/css?family=Nunito);
+
+@media only screen and (max-width:500px)
+      {
+        .fc{
+ 
+  width: 500px;
+  height: 100px;
+  overflow:scroll;
+      }
+      }
+
+@media only screen and (max-width: 1200px) and  (min-width: 991px)
+      {
+        .fc{
+ 
+  width: 500px;
+  height: 300px;
+ 
+      }
+  }
+
+
+
+
+
+
+
+

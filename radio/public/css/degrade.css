@@ -1,0 +1,64 @@
+@import url(https://fonts.googleapis.com/css?family=Nunito);
+
+
+
+
+.TyF{
+background: rgba(179,220,237,1);
+background: -moz-linear-gradient(left, rgba(179,220,237,1) 0%, rgba(67,192,230,1) 50%, rgba(29,93,222,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(179,220,237,1)), color-stop(50%, rgba(67,192,230,1)), color-stop(100%, rgba(29,93,222,1)));
+background: -webkit-linear-gradient(left, rgba(179,220,237,1) 0%, rgba(67,192,230,1) 50%, rgba(29,93,222,1) 100%);
+background: -o-linear-gradient(left, rgba(179,220,237,1) 0%, rgba(67,192,230,1) 50%, rgba(29,93,222,1) 100%);
+background: -ms-linear-gradient(left, rgba(179,220,237,1) 0%, rgba(67,192,230,1) 50%, rgba(29,93,222,1) 100%);
+background: linear-gradient(to right, rgba(179,220,237,1) 0%, rgba(67,192,230,1) 50%, rgba(29,93,222,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b3dced', endColorstr='#1d5dde', GradientType=1 );
+padding: 0 0 0 0;
+}
+
+.sombra{
+	 -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+.radio{
+
+background: rgba(247,245,244,1);
+background: -moz-linear-gradient(left, rgba(247,245,244,1) 0%, rgba(247,245,244,1) 12%, rgba(8,1,0,1) 35%, rgba(5,1,0,1) 44%, rgba(5,1,0,1) 55%, rgba(10,2,0,1) 63%, rgba(252,249,249,1) 87%, rgba(252,249,249,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(247,245,244,1)), color-stop(12%, rgba(247,245,244,1)), color-stop(35%, rgba(8,1,0,1)), color-stop(44%, rgba(5,1,0,1)), color-stop(55%, rgba(5,1,0,1)), color-stop(63%, rgba(10,2,0,1)), color-stop(87%, rgba(252,249,249,1)), color-stop(100%, rgba(252,249,249,1)));
+background: -webkit-linear-gradient(left, rgba(247,245,244,1) 0%, rgba(247,245,244,1) 12%, rgba(8,1,0,1) 35%, rgba(5,1,0,1) 44%, rgba(5,1,0,1) 55%, rgba(10,2,0,1) 63%, rgba(252,249,249,1) 87%, rgba(252,249,249,1) 100%);
+background: -o-linear-gradient(left, rgba(247,245,244,1) 0%, rgba(247,245,244,1) 12%, rgba(8,1,0,1) 35%, rgba(5,1,0,1) 44%, rgba(5,1,0,1) 55%, rgba(10,2,0,1) 63%, rgba(252,249,249,1) 87%, rgba(252,249,249,1) 100%);
+background: -ms-linear-gradient(left, rgba(247,245,244,1) 0%, rgba(247,245,244,1) 12%, rgba(8,1,0,1) 35%, rgba(5,1,0,1) 44%, rgba(5,1,0,1) 55%, rgba(10,2,0,1) 63%, rgba(252,249,249,1) 87%, rgba(252,249,249,1) 100%);
+background: linear-gradient(to right, rgba(247,245,244,1) 0%, rgba(247,245,244,1) 12%, rgba(8,1,0,1) 35%, rgba(5,1,0,1) 44%, rgba(5,1,0,1) 55%, rgba(10,2,0,1) 63%, rgba(252,249,249,1) 87%, rgba(252,249,249,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7f5f4', endColorstr='#fcf9f9', GradientType=1 );
+}
+
+.cont-face{
+    background-color: #3b5998;
+    color: black;
+
+  }
+
+  .cont-tw{
+    background-color: #00aced;
+    color: black;
+    
+  }
+
+  .cont-inst{
+    width:100%; height:100%;
+  background: #f09433; 
+background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
+background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
+  
+    color: black;
+  }
+
+
+
+
+  
+
+
